@@ -52,7 +52,7 @@ cout<<"|        NAMA                           KODE         |\n";
 cout<<"|----------------------------------------------------|\n";
 cout<<"| RISKI                |               A        |\n";
 cout<<"| HERU                 |               Y        |\n";
-cout<<"| SABUL                |               N        |\n";
+cout<<"| SABIL                |               N        |\n";
 cout<<"| SONI                 |               I        |\n";
 cout<<"| DEWA                 |               O        |\n";
 cout<<"| NENI                 |               E        |\n";
